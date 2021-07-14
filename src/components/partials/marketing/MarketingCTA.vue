@@ -1,0 +1,94 @@
+<template>
+  <div class="section has-bg-dots">
+    <div class="container">
+      <div class="">
+        <div class="boxed-cta">
+          <V-Avatar
+            class="v-avatar-1"
+            picture="/images/icons/cryptocurrencies/atom.svg"
+            size="xl"
+          />
+          <V-Avatar
+            class="v-avatar-2"
+            picture="/images/icons/cryptocurrencies/xlm.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-3"
+            picture="/images/icons/cryptocurrencies/algo.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-4"
+            picture="/images/icons/cryptocurrencies/link.svg"
+            size="xl"
+          />
+          <V-Avatar
+            class="v-avatar-5"
+            picture="/images/icons/cryptocurrencies/ada.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-6"
+            picture="/images/icons/cryptocurrencies/bnb.svg"
+            size="xl"
+          />
+          <V-Avatar
+            class="v-avatar-7"
+            picture="/images/icons/cryptocurrencies/doge.svg"
+            size="medium"
+          />
+          <V-Avatar
+            class="v-avatar-8"
+            picture="/images/icons/cryptocurrencies/luna.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-9"
+            picture="/images/icons/cryptocurrencies/eth.svg"
+            size="xl"
+          />
+          <V-Avatar
+            class="v-avatar-10"
+            picture="/images/icons/cryptocurrencies/miota.svg"
+            size="medium"
+          />
+          <V-Avatar
+            class="v-avatar-11"
+            picture="/images/icons/cryptocurrencies/sol.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-12"
+            picture="/images/icons/cryptocurrencies/dot.svg"
+            size="xl"
+          />
+          <V-Avatar
+            class="v-avatar-13"
+            picture="/images/icons/cryptocurrencies/btc.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-14"
+            picture="/images/icons/cryptocurrencies/enj.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-15"
+            picture="/images/icons/cryptocurrencies/vet.svg"
+            size="large"
+          />
+          <V-Avatar
+            class="v-avatar-16"
+            picture="/images/icons/cryptocurrencies/xtz.svg"
+            size="large"
+          />
+          <div class="boxed-cta-content has-text-centered">
+            <h2 class="title is-1">Get Started Now</h2>
+            <a class="button v-button is-rounded is-bold"> Explore Aeshub </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
