@@ -1,6 +1,7 @@
 <script setup lang="ts">
-import { ref, defineProps } from 'vue'
+import { ref, defineProps, computed } from 'vue'
 import { useRouter } from 'vue-router'
+import { isDark } from '/@src/state/darkModeState'
 
 defineProps({
   light: {
@@ -23,8 +24,5 @@ router.afterEach(() => {
 </script>
 
 <template>
-  <img
-    src="/images/logos/logo/aes.png"
-    :class="[isLoading && 'is-roll', light && 'is-light']"
-  />
+  <img :src="`/images/logos/logo/aes_${isDark ? 'white' : 'dark'}.svg`" />
 </template>
