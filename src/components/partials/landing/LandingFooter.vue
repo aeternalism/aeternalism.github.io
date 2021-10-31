@@ -9,7 +9,7 @@
         <div class="head-action">
           <div class="buttons">
             <a
-              href="https://github.com/aeternalism/aeschain/wiki"
+              href="https://docs.aeternalism.com"
               class="button v-button is-primary is-rounded raised action-button"
             >
               Documentation
@@ -84,9 +84,7 @@
                   <a href="https://aeshub.aeternalism.com">Aeshub</a>
                 </li>
                 <li class="column-item">
-                  <a href="https://github.com/aeternalism/aeschain/wiki"
-                    >Documentation</a
-                  >
+                  <a href="https://docs.aeternalism.com">Documentation</a>
                 </li>
                 <li class="column-item">
                   <a href="https://github.com/aeternalism/aeschain">Github</a>

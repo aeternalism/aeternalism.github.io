@@ -106,11 +106,7 @@ watchEffect(() => {
         </div>
 
         <div class="navbar-item">
-          <a
-            href="https://github.com/aeternalism/aeschain/wiki"
-            class="nav-link"
-            >Docs</a
-          >
+          <a href="https://docs.aeternalism.com" class="nav-link">Docs</a>
         </div>
       </div>
 

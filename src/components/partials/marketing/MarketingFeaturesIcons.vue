@@ -116,7 +116,7 @@
                 color="primary"
                 rounded
                 elevated
-                href="https://github.com/aeternalism/aeschain/wiki/"
+                href="https://docs.aeternalism.com/"
               >
                 Read the Docs
               </V-Button>
